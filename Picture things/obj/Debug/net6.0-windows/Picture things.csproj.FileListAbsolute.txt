@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\bin\Debug\net6.0-windows\Picture things.exe
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\bin\Debug\net6.0-windows\Picture things.deps.json
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\bin\Debug\net6.0-windows\Picture things.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\bin\Debug\net6.0-windows\Picture things.dll
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\bin\Debug\net6.0-windows\Picture things.pdb
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture_things.Form1.resources
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.dll
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\refint\Picture things.dll
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.pdb
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\Picture things.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Picture-things-master\Picture things\obj\Debug\net6.0-windows\ref\Picture things.dll
